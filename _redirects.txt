@@ -1,0 +1,5 @@
+# Redirect default Netlify subdomain to primary domain
+
+https://kanzal.netlify.app/* https://kanzaltest.tk/: splat 301!
+
+# Example: https://budi.netlify.app/* https://budidev.com/:splat 301!
